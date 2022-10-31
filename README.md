@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/99032604/199130283-a7f827ff-12cd-4be7-a17f-4cca78cfa613.mp4
-
 # Legal-Page
 
 ## Getting Started
@@ -40,3 +36,5 @@ I made a website about legal page, but basically what I did was to take a design
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Legal%20page`
 
 ## Video
+
+https://user-images.githubusercontent.com/99032604/199130283-a7f827ff-12cd-4be7-a17f-4cca78cfa613.mp4
