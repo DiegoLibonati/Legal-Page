@@ -33,7 +33,7 @@ I made a website about legal page, but basically what I did was to take a design
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Legal%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Legal%20Page`
 
 ## Video
 
